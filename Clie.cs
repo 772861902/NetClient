@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Net
 {
-    internal class Clie 
+    internal class ClieNet
     {
         Socket socket;
         int buffCount=0;
